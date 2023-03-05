@@ -2,7 +2,6 @@
 
 ## How to run?
 
-1. project
 
 ```javascript
 
